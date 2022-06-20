@@ -1,9 +1,32 @@
 # TSED - Commodities
 
-Time-series enriched with domain-specific terms to forecasting the daily future price of agricultural commodities.
+Time-Series Enriched with Domain-specific terms to forecasting the daily future price of agricultural commodities.
 
+# Method
 
+The proposed method, a representation of time-series combined with features extracted from a vector representation of texts. Below illustrates the steps performed in the method.
 
+<p align="center">
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2215016122001388-ga1_lrg.jpg" width="600px" alt="table2"/>
+</p>
+
+# Experimental Configuration
+
+The cross-validation for time-series was used to evaluate the proposed model in the experimental evaluation. The first training step was performed with 30% of the data (F1), and at each cross-validation iteration, a day is added to the training to predict the next step ahead.
+
+<p align="center">
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2215016122001388-gr3_lrg.jpg" width="600px" alt="table2"/>
+</p>
+
+The variable y′ in Equation 8 represents the forecast of commodity prices h days ahead, and n represents approximately 1230 forecasts (daily) performed in the test stage.
+
+# Results
+
+Figure below shows the graph of the true and forecasted values of commodities with forecasting horizon h = 1. The red and blue points represent the days when the forecast reached the MAPE equal to zero. 
+
+<p align="center">
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2215016122001388-gr4_lrg.jpg" width="700px" alt="table2"/>
+</p>
 
 # Citation
 
