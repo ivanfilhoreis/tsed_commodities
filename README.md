@@ -30,6 +30,8 @@ Figure below shows the graph of the true and forecasted values of commodities wi
 
 # Citation
 
+To cite TSED in your work, please use the following bibtex reference:
+
 ```python
 @article{dos2022enrichment,
   title={On the enrichment of time series with textual data for forecasting agricultural commodity prices},
@@ -40,3 +42,8 @@ Figure below shows the graph of the true and forecasted values of commodities wi
   publisher={Elsevier}
 }
 ```
+
+# Reference
+
+Time Series representation models Enriched with text Domain resources (TSED)
+[Repository - TSED](https://github.com/ivanfilhoreis/tsed)
