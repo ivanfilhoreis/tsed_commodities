@@ -25,14 +25,14 @@ The variable y′ in Equation 8 represents the forecast of commodity prices h da
 Figure below shows the graph of the true and forecasted values of commodities with forecasting horizon h = 1. The red and blue points represent the days when the forecast reached the MAPE equal to zero. 
 
 <p align="center">
-  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2215016122001388-gr4_lrg.jpg" width="700px" alt="table2"/>
+  <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2215016122001388-gr4_lrg.jpg" width="900px" alt="table2"/>
 </p>
 
 # Citation
 
 To cite TSED in your work, please use the following bibtex reference:
 
-```python
+```
 @article{dos2022enrichment,
   title={On the enrichment of time series with textual data for forecasting agricultural commodity prices},
   author={dos Reis Filho, Ivan Jos{\'e} and Marcacini, Ricardo Marcondes and Rezende, Solange Oliveira},
@@ -45,5 +45,4 @@ To cite TSED in your work, please use the following bibtex reference:
 
 # Reference
 
-Time Series representation models Enriched with text Domain resources (TSED)
-[Repository - TSED](https://github.com/ivanfilhoreis/tsed)
+Time Series representation models Enriched with text Domain resources (TSED)-[Repository](https://github.com/ivanfilhoreis/tsed)
