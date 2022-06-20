@@ -28,6 +28,8 @@ Figure below shows the graph of the true and forecasted values of commodities wi
   <img src="https://ars.els-cdn.com/content/image/1-s2.0-S2215016122001388-gr4_lrg.jpg" width="900px" alt="table2"/>
 </p>
 
+More details of the results available [here](https://colab.research.google.com/drive/1zhXSrMmOtN3eSgCZfel-K9mhrH9153zA?usp=sharing).
+
 # Citation
 
 To cite TSED in your work, please use the following bibtex reference:
@@ -42,6 +44,7 @@ To cite TSED in your work, please use the following bibtex reference:
   publisher={Elsevier}
 }
 ```
+More details of the paper available [here](https://www.sciencedirect.com/science/article/pii/S2215016122001388).
 
 # Reference
 
